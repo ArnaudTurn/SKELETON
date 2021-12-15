@@ -1,6 +1,6 @@
 # SKELETON
 
-![Skeleton](./doc/skeleton.png)
+<img src="./doc/skeleton.png" alt="Skeleton" width="500"/>
 
 </br>
 
