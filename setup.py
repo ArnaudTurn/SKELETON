@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="SkeletonP",
+    name="Sklon",
     version="0.0.1",
     author="Arnaud tauveron",
     author_email="https://www.linkedin.com/in/arnaud-tauveron/",
@@ -16,7 +16,7 @@ setuptools.setup(
         "License :: MIT License",
         "Operating System :: OS Independent",
     ],
-    package_dir={"": "competition_project\strategies_utils"},
-    packages=setuptools.find_packages(where="competition_project\strategies_utils"),
+    package_dir={"": "sklon"},
+    packages=setuptools.find_packages(where="sklon"),
     python_requires=">=3.6",
 )

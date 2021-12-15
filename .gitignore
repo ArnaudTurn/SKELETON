@@ -1,8 +1,33 @@
-/strategies_utils/technical_indicators_maker.py
-/strategies_utils/features_selector.py
-/strategies_utils/algo_supervised.py
-/strategies_utils/algo_dim_reduction.py
-/strategies_utils/algo_dim_reduction.py
-/strategies_utils/algo_unsupervised.py
-/strategies_utils/utils.py
-/utils
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+sklon/technical_indicators_maker.py
+sklon/features_selector.py
+sklon/algo_supervised.py
+sklon/algo_dim_reduction.py
+sklon/algo_dim_reduction.py
+sklon/algo_unsupervised.py
+sklon/utils.py
+utils/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Documentation
+docs/

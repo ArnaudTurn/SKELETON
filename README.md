@@ -1,6 +1,6 @@
 # SKELETON
 
-<img src="./doc/skeleton.png" alt="Skeleton" width="500"/>
+<img src="./docs/skeleton.png" alt="Skeleton" width="500"/>
 
 </br>
 
