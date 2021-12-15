@@ -23,7 +23,7 @@ from pandas.io.json import json_normalize
 from strategies_utils.utils import check_exist, get_unique_date
 
 
-class loader_data:
+class SklLoader:
     def __init__(self, ticker_list: list = None):
         self.tickers = ticker_list
 
@@ -84,10 +84,6 @@ class loader_data:
             print(e)
             data = 1
 
-        # %%
-        # coinmarket_db = json_normalize(data["data"])
-        # coinmarket_db.columns = [i.replace(".", "_") for i in coinmarket_db.columns]
-        # return coinmarket_db
         return data
 
 def init_yaml():
