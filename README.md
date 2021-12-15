@@ -9,3 +9,8 @@ Imagine being able to reuse all your data transformation including from one tabl
 *That's the skeleton project !*
 
 🚧🚧🚧 Under development 🚧🚧🚧
+
+If you want to know more don't hesitate to contact me here : 
+[<img align="left" alt="ArnaudTurn | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/arnaud-tauveron/
